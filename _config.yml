@@ -1,15 +1,15 @@
-title: example.com
+title: 룰루랄라 코딩 일기
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: jjwkaks@gmail.com
+github_username: codingsireo
+twitter_username: 쉿 비밀이야♡
+instagram_username: 쉿 비밀이야♡
+linkedin_username: 쉿 비밀이야♡
+facebook_username: 쉿 비밀이야♡
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
